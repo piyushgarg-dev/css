@@ -1,4 +1,25 @@
 *{
-font-family: sans-serif;
-  color:green;
+    font-family: sans-serif,'Segoe UI', Tahoma, Geneva, Verdana;
 }
+.btn{
+    margin:5px;
+    padding: 10px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 10px;
+    text-align: center; 
+    box-shadow: 0 0 20px #eee;
+    border: none;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+.btn:hover{
+    background-position: right center;
+
+  background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+.btn-1 {
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+  }
