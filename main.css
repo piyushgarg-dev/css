@@ -18,7 +18,7 @@
 .btn:hover{
     background-position: right center;
 
-  background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+  
 }
 .btn-1 {
     background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
