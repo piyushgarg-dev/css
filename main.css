@@ -40,7 +40,10 @@
   .btn-5 {
     background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 51%, #ffecd2 100%);
   }
-
+  .btn-6{
+background-image: linear-gradient(to right, #fc6076, #ff9a44, #ef9d43, #e75516);
+    box-shadow: 0 4px 15px 0 rgba(252, 104, 110, 0.75);
+}
 .ul-style-1{
     list-style: none;
     margin: 10px;
